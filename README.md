@@ -91,7 +91,7 @@ Implemented multiple models:
 
 ##  Tech Stack
 
-* Python 🐍
+* Python 
 * Pandas & NumPy
 * Matplotlib & Seaborn
 * Scikit-learn

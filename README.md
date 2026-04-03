@@ -96,17 +96,6 @@ Implemented multiple models:
 * Matplotlib & Seaborn
 * Scikit-learn
 
-##  Project Structure
-
-```
-├── Incident_managment.ipynb
-├── README.md
-├── requirements.txt
-└── dataset.csv (if included)
-```
-
----
-
 ##  Future Improvements
 
 * Hyperparameter tuning for better accuracy
@@ -116,13 +105,13 @@ Implemented multiple models:
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Anjali Versha**
 
 ---
 
-## 📜 License
+## License
 
 This project is open-source and available under the MIT License.
 
